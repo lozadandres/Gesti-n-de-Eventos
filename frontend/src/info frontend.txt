@@ -3,8 +3,4 @@
 3. npm i react-router-dom
 4. npm install jspdf jspdf-autotable
 
-{isAdmin && (
-              <li className="nav__item">
-                <Link to="/dashboard" className="nav__link">Dashboard</Link>
-              </li>
-            )}
+
