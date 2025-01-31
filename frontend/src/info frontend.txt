@@ -1,0 +1,10 @@
+1. npm create vite@latest . -- --template react
+2. npm i sweetalert2 axios react-dom
+3. npm i react-router-dom
+4. npm install jspdf jspdf-autotable
+
+{isAdmin && (
+              <li className="nav__item">
+                <Link to="/dashboard" className="nav__link">Dashboard</Link>
+              </li>
+            )}
