@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación web que permite a los usuarios registrarse, iniciar sesión y administrar eventos a través de un CRUD. Utiliza un backend en Node.js con Express y MongoDB, y un frontend en React.
 
-<img src="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/blob/3b417fc7ba1c439053cacf5c793e6332a694240c/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" width="100%" height="500" alt="App"/>
+<img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" width="100%" height="500" alt="App"/>
 
 ## Tecnologías Utilizadas
 
