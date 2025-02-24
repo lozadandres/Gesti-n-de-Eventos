@@ -10,6 +10,10 @@ Este proyecto es una aplicación web que permite a los usuarios registrarse, ini
 - **Backend:** Node.js, Express, Mongoose, bcryptjs, jsonwebtoken, dotenv
 - **Base de Datos:** MongoDB
 
+## Enlace al video
+
+Puedes ver un video demostrativo del proyecto en el siguiente enlace: https://youtu.be/IyEfGd1T09Q?si=N-HIjXlcQPETZoH9
+
 ## Instalación
 
 ### Requisitos Previos
