@@ -2,11 +2,17 @@
 
 Este proyecto es una aplicación web que permite a los usuarios registrarse, iniciar sesión y administrar eventos a través de un CRUD. Utiliza un backend en Node.js con Express y MongoDB, y un frontend en React.
 
+### Vista Previa
+
+| Página de Inicio | Panel Administrativo |
+| :---: | :---: |
+| ![Inicio](frontend/public/paginaInicio.jpeg) | ![Admin](frontend/public/dashboardEventos.jpeg) |
+
 <img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" width="100%" height="500" alt="App"/>
 
 ## Tecnologías Utilizadas
 
-- **Frontend:** React, React Router, SweetAlert2, Axios
+- **Frontend:** React, React Router, SweetAlert2, Axios, Material UI, Framer Motion
 - **Backend:** Node.js, Express, Mongoose, bcryptjs, jsonwebtoken, dotenv
 - **Base de Datos:** MongoDB
 
